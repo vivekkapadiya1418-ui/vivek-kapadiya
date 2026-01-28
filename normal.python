@@ -1,0 +1,25 @@
+Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+x = 17
+print (x)
+17
+x  = 17+3
+print (x)
+20
+x = 20*20
+print (x)
+400
+x = 500-499
+print (x)
+1
+x = 500/25
+print (x)
+20.0
+
+x = ("hello world")
+x = ("hello world")
+x = 1j
+print (x)
+1j
+x = ["apple","banana","cherry"]
+print (x)
